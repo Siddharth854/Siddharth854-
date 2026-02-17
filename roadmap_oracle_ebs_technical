@@ -1,0 +1,261 @@
+
+# 🔵 PHASE 1 (Month 1–2): Strong Foundation in Oracle Database
+
+## 1️⃣ Master SQL (Very Important)
+
+Learn:
+
+* Joins (inner, outer, self)
+* Group by, Having
+* Subqueries
+* Analytical functions
+* Performance basics
+
+Practice daily on:
+
+* Oracle SQL Developer
+* Sample HR schema
+
+---
+
+## 2️⃣ Learn PL/SQL Deeply
+
+Focus on:
+
+* Procedures
+* Functions
+* Packages
+* Cursors
+* Exception handling
+* Bulk collect
+* FORALL
+* Dynamic SQL
+
+Practice:
+
+* Build small programs
+* Debug errors
+* Write validation procedures
+
+🎯 Goal: Be able to write full PL/SQL programs confidently.
+
+---
+
+# 🔵 PHASE 2 (Month 3): Understand Oracle EBS Architecture
+
+Learn basics of:
+
+* What is Oracle EBS?
+* R12 architecture
+* Application & database tier
+* Multi-org structure
+* Responsibilities
+* Concurrent manager
+* Key schemas (APPS, GL, AR)
+
+Understand product by:
+
+* **Oracle Corporation E-Business Suite R12**
+
+🎯 Goal: Understand how EBS system works internally.
+
+---
+
+# 🔵 PHASE 3 (Month 4): Oracle EBS Technical Development
+
+Now move into core technical skills.
+
+## 1️⃣ Concurrent Programs
+
+Learn:
+
+* How to register executable
+* Register concurrent program
+* Request groups
+
+Practice:
+
+* Create a PL/SQL based concurrent program
+* Generate output report
+
+---
+
+## 2️⃣ Oracle Reports (RDF)
+
+* Create simple reports
+* Parameter forms
+* Custom layouts
+
+---
+
+## 3️⃣ BI Publisher (Very Important)
+
+Learn:
+
+* Data template (XML)
+* RTF template
+* Bursting
+* Excel output
+
+BI Publisher is used heavily in modern EBS.
+
+🎯 Goal: Create custom reports independently.
+
+---
+
+# 🔵 PHASE 4 (Month 5): RICE Components
+
+RICE = Reports, Interfaces, Conversions, Extensions
+
+## 1️⃣ Interfaces & APIs (Critical Skill)
+
+Learn:
+
+* What are Open Interfaces?
+* How to load data
+* How to validate staging tables
+* How to call Public APIs
+
+Examples to practice:
+
+* AP Invoice conversion
+* AR Invoice conversion
+* Supplier conversion
+
+Understand concept of:
+
+* Standard tables
+* Interface tables
+* Base tables
+
+🎯 Goal: Be able to design and debug data conversions.
+
+---
+
+## 2️⃣ Data Conversion Tools
+
+Learn:
+
+* SQL Loader
+* FNDLOAD
+* LDT files
+* Shell scripting basics
+
+---
+
+# 🔵 PHASE 5 (Month 6): Functional Module Understanding
+
+You don’t need deep functional knowledge, but must understand:
+
+## 🔹 Financials
+
+* GL
+* AP
+* AR
+* FA
+
+## 🔹 Supply Chain
+
+* PO
+* Inventory
+* OM
+
+Focus on:
+
+* Key tables
+* Transaction flow
+* Data relationships
+
+Example:
+AP Invoice → Tables involved → Payment process
+
+🎯 Goal: Understand data flow clearly.
+
+---
+
+# 🔵 PHASE 6 (Month 7): Support & Debugging Skills
+
+Now learn real-world support tasks:
+
+* Reading log files
+* Trace file analysis
+* Debugging custom programs
+* Handling production issues
+* Root Cause Analysis (RCA)
+
+Learn how to:
+
+* Raise Service Requests with **Oracle Corporation Support**
+* Apply patches
+* Review Oracle Notes
+
+Practice:
+
+* Simulate issue → Find root cause → Fix
+
+---
+
+# 🔵 PHASE 7 (Month 8): Job Preparation
+
+## 1️⃣ Build Resume Around:
+
+* SQL/PLSQL expertise
+* 2–3 sample RICE components
+* One data conversion scenario
+* One reporting project
+
+## 2️⃣ Prepare Interview Topics:
+
+Be strong in:
+
+* SQL queries
+* Package structure
+* EBS architecture
+* APIs vs Open Interface
+* Concurrent programs
+* Financial module tables
+
+---
+
+# 🧠 Weekly Study Plan (Recommended)
+
+* 2–3 hours daily
+* 1 day per week for revision
+* 1 mini project per month
+
+---
+
+# 💼 Mini Projects You Should Build
+
+1. Employee Report using BI Publisher
+2. Supplier Conversion using Interface
+3. AP Invoice Load Program
+4. Custom Concurrent Program
+5. Debugging scenario document
+
+These projects make you job-ready.
+
+---
+
+# 🎯 Skills Checklist Before Applying
+
+You should confidently answer:
+
+✔ Write complex SQL queries
+✔ Create PL/SQL packages
+✔ Develop concurrent programs
+✔ Explain RICE
+✔ Use APIs
+✔ Debug production issue
+✔ Explain GL/AP/AR table flow
+
+---
+
+# ⏳ Expected Time to Become Job-Ready
+
+With consistent effort:
+
+* 6–8 months serious preparation
+* 4–5 months if studying full time
+
+---
