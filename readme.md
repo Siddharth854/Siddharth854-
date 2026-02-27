@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing PHD from Manipal University <br>my Research Field is Artificial Intelligence and Machine Learning deep learning, computer vision, and NLP, as well as applied fields such as robotics, healthcare, and cybersecurity
+I am currently pursuing Masters from Manipal University <br>my Research Field is Artificial Intelligence and Machine Learning deep learning, computer vision, and NLP, as well as applied fields such as robotics, healthcare, and cybersecurity
 
 
 ## 🌐 Socials:
